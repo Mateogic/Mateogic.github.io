@@ -2,7 +2,7 @@
 title: "基于GDM的网络优化教程"
 meta_title: ""
 description: "this is meta description"
-date: 2024-08-05T19:30:00Z
+date: 2022-04-04T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Architecture"]
 author: "Mateogic"
