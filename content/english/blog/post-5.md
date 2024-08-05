@@ -2,13 +2,18 @@
 title: "基于GDM的网络优化教程"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00Z
+date: 2024-08-05T20:50:00Z
 image: "/images/image-placeholder.png"
-categories: ["Architecture"]
+categories: ["计算机科学与技术"]
 author: "Mateogic"
 tags: ["silicon", "technology"]
 draft: false
+math: true
 ---
+1111
+
+
+
 > [代码仓库](https://github.com/hongyangdu/gdmopt),[Diffusers-HuggingFace](https://huggingface.co/docs/diffusers/index)
 - 文章脉络
 ![](/images/gdm/Pasted%20image%2020240622123219.png)
